@@ -18,6 +18,6 @@
   "license": "MIT",
   "dependencies": {
     "any-promise": "^1.3.0",
-    "apiai": "^3.0.3"
+    "apiai": "^4.0.3"
   }
 }
